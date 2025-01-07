@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Cloud Computing
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me :saitham@uncc.edu
+- 📫 How to reach me :a.suhas.1994@gmail.com 
 
 <!---
 suhasaitham22/suhasaitham22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
