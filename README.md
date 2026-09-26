@@ -56,9 +56,11 @@ A Python chatbot that lets you chat with your own documents using embeddings and
 
 ## GitHub stats
 
-![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasaitham22&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasaitham22&layout=compact&theme=tokyonight)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=suhasaitham22&theme=tokyonight)
+
+![followers](https://img.shields.io/github/followers/suhasaitham22?style=social)
+![stars](https://img.shields.io/github/stars/suhasaitham22?style=social)
+![profile views](https://komarev.com/ghpvc/?username=suhasaitham22)
 
 ---
 
